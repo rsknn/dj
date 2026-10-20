@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "dj\\x64\\Debug\\timing.obj",
+            "outputs": [
+                "dj\\x64\\Debug\\timing.h.obj.dt.module.json",
+                "dj\\x64\\Debug\\timing.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
